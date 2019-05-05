@@ -1,0 +1,11 @@
+1- install dependency packages in requirements.txt
+pip install requirements.txt
+
+2- Install models
+
+3- Install HebbLayers
+
+run the example:
+
+python main_mlp_mnist.py
+

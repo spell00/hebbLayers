@@ -1,0 +1,9 @@
+MultiLayerPerceptron.py
+__init__.py
+hebbLayers.py
+main_mlp_mnist.py
+setup.py
+hebbLayers.egg-info/PKG-INFO
+hebbLayers.egg-info/SOURCES.txt
+hebbLayers.egg-info/dependency_links.txt
+hebbLayers.egg-info/top_level.txt
